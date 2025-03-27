@@ -1,0 +1,14 @@
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\bin\Debug\net9.0\apbdcw3.exe
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\bin\Debug\net9.0\apbdcw3.deps.json
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\bin\Debug\net9.0\apbdcw3.runtimeconfig.json
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\bin\Debug\net9.0\apbdcw3.dll
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\bin\Debug\net9.0\apbdcw3.pdb
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.AssemblyInfoInputs.cache
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.AssemblyInfo.cs
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.csproj.CoreCompileInputs.cache
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.dll
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\refint\apbdcw3.dll
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.pdb
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\apbdcw3.genruntimeconfig.cache
+C:\Users\TOM\OneDrive\Pulpit\APBD\apbdcw3\apbdcw3\obj\Debug\net9.0\ref\apbdcw3.dll
